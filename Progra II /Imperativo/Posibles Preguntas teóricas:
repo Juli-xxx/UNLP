@@ -1,0 +1,5 @@
+- De la solución implementada para el TP, identifique y mencione todas las operaciones sobre árboles utilizadas (aquellas que vimos a lo largo del módulo). Justifique brevemente para qué utilizó cada una de estas operaciones en el contexto del problema.
+- De la solución implementada para el TP, enumere donde realizó recorridos de la estructura. Explique por qué eligió cada manera de recorrer la estructura.
+- De la solución implementada para el TP, mencione aquellos casos donde utilizó recursión. Justifique por qué le pareció necesario utilizarlo durante el desarrollo.
+- De la solución implementada para el TP, al crear la nueva estructura ¿Tuvo que procesar elementos repetidos? ¿Cuál/es? ¿Por qué?
+- De la solución implementada para el TP, para el caso de eliminar un elemento, construya un pseudo-código que contemple todos los casos que pueden darse al eliminar un elemento de la estructura generada. Detalle en cada caso el listado de acciones a llevar adelante con palabras, no con código.
