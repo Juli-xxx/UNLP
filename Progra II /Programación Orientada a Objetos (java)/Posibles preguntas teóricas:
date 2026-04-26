@@ -1,1 +1,7 @@
-- 
+Respecto al código
+- Explique cómo mostraron los datos en el programa principal, ¿qué método/s incluyeron? ¿dónde lo/s declararon?
+- De la solución implementada para el TP, cite un caso de uso de la palabra reservada super. Justifique por qué le parece relevante el ejemplo seleccionado.
+- ¿Usaron el mecanismo de herencia? ¿En qué clases y por qué?
+- ¿Usaron alguna clase abstracta? ¿Cuál y por qué?
+- De la solución implementada para el TP, cite un caso de uso de encapsulamiento. Justifique por qué le parece relevante el ejemplo seleccionado.
+
