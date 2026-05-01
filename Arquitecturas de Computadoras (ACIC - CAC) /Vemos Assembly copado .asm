@@ -1,5 +1,9 @@
-ORG 3000h
-    mov ax, 1
-    mov bx, 0 
-    push ax    
-    ret   
+ORG 1000h
+  msj db "hola mundo" 
+
+ORG 2000h
+  MOV BX, OFFSET msj 
+  MOV AL, 10 
+  INT 7    
+  INT 0 
+END
