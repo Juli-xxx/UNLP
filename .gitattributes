@@ -11,3 +11,5 @@
 
 *.c linguist-language=C
 *.h linguist-language=C
+
+*.rinfo linguist-language=R-Info
