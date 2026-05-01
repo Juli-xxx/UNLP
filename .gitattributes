@@ -13,4 +13,4 @@
 *.h linguist-language=C
 
 *.rinfo linguist-detectable=true
-*.rinfo linguist-language=R-Info
+*.rinfo linguist-language=RInfo
