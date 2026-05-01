@@ -1,0 +1,7 @@
+*.pas linguist-language=Pascal
+*.pp linguist-language=Pascal
+*.inc linguist-language=Pascal
+
+*.asm linguist-language=Assembly
+*.s linguist-language=Assembly
+*.S linguist-language=Assembly
