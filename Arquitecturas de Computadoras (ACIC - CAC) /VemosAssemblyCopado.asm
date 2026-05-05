@@ -1,9 +1,9 @@
 ORG 1000h
-  msj db "hola mundo" 
+  msj db "do not bother" 
 
 ORG 2000h
   MOV BX, OFFSET msj 
-  MOV AL, 10 
+  MOV AL, 13
   INT 7    
   INT 0 
 END
