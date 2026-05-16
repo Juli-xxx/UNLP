@@ -25,6 +25,12 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
+### 🍊 IA Recomendada — Notebook LM
+
+- Podés subir diapositivas, pdf, videos y resúmenes
+- Responde solo usando tus archivos
+- Más rápido que ChatGPT para estudiar
+
 ## 📚 Progreso en la Carrera
 
 <p align="center">
