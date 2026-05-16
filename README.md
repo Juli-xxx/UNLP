@@ -10,6 +10,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 <td valign="midle">
   <span style="color:#FF6A2B;">NOTEBOOK LM</span>
   <span style="color:#FF6A2B;">IA RECOMENDADA: Notebook LM</span>
+  <span style="color:#FF6A2B;">texto</span>
   <br>
   - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
   <br>
