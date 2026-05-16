@@ -19,7 +19,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
   - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
   <br>
   - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
-</p>
+<br><br>
   
 </td>
 </tr>
