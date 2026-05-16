@@ -3,7 +3,6 @@
 won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
 </p>
 (si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
-</p>
 
 <table>
 <tr>
