@@ -25,8 +25,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
-<b><span style="color:#FF6A2B;">🍊 IA Recomendada</span></b>
-
+<span style="color:#FF6A2B;">NOTEBOOK LM</span>
 ## 📚 Progreso en la Carrera
 
 <p align="center">
