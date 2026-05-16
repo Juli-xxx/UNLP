@@ -8,7 +8,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="midle">
-  <h3> IA RECOMENDADA: Notebook LM </h3>
+  <h4> IA RECOMENDADA: Notebook LM </h4>
   <b><span style="color:#FF6A2B;">🍊 IA Recomendada</span></b>
   <span style="color:#FF6A2B;">IA RECOMENDADA: Notebook LM</span>
   <br>
