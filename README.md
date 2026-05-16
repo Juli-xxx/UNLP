@@ -8,9 +8,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="midle">
-  <span style="color:#FF6A2B;">NOTEBOOK LM</span>
   <span style="color:#FF6A2B;">IA RECOMENDADA: Notebook LM</span>
-  <span style="color:#FF6A2B;">texto</span>
   <br>
   - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
   <br>
@@ -18,6 +16,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
   <br>
   - Lo único que jode es que no podes mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda si queres que te resuelva algo mencionar el nombre. 
 <br> <br>
+  <span style="color:#6FA8DC;">NOTION</span>
   PAG DE APUNTES RECOMENDADA: NOTION
   <br>
   - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
