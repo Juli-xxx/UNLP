@@ -32,10 +32,10 @@ Año	Estado	Avance
 | Año     | Estado         | Avance                                    |
 | ------- | -------------- | ----------------------------------------- |
 | 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) |
-| 2do Año | 🔄 En progreso | ![](https://progress-bar.xyz/70/?title=)  |
-| 3er Año | 🔄 En progreso | ![](https://progress-bar.xyz/30/?title=)  |
-| 4to Año | ⏳ Pendiente    | ![](https://progress-bar.xyz/0/?title=)   |
-| 5to Año | 🚀 Futuro      | ![](https://progress-bar.xyz/10/?title=)  |
+| 2do Año |  📍Cursando | ![](https://progress-bar.xyz/25/?title=)  |
+| 3er Año | - | ![](https://progress-bar.xyz/0/?title=)  |
+| 4to Año | -    | ![](https://progress-bar.xyz/0/?title=)   |
+| 5to Año | -      | ![](https://progress-bar.xyz/10/?title=)  |
 
 </p>
-
+(divido año en 4 --> primer cuatri, segundo cuatri, y mas o menos dós módulos por cuatri, ej: aprobé todos los modulos 1 del primer cuatri)
