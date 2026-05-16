@@ -9,17 +9,17 @@ won't upload all the activities I make, but you can find exams and resumes in th
 
 <table>
 <tr>
-<td width="65%">
+<td valign="top">
+
+<img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
+</td>
+<td valign="top">
 won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
 <br><br>
 (si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 </td>
-<td width="35%">
-<img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
-</td>
 </tr>
 </table>
-
 
 IA RECOMENDADA: Notebook LM
 - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
