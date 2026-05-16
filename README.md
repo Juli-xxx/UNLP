@@ -15,7 +15,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
   <br>
   - Lo único que jode es que no podes mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda si queres que te resuelva algo mencionar el nombre. 
 <br>
-  <h4> PAG DE APUNTES RECOMENDADA: NOTION </h4>h4>
+  <h4> PAG DE APUNTES RECOMENDADA: NOTION </h4>
   - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
   <br>
   - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
