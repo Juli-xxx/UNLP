@@ -1,27 +1,25 @@
 # UNLP
+won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
+</p>
+(si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
+
 <table>
 <tr>
 <td valign="top">
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="top">
-won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
-<br>
-(si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
-</td>
-</tr>
-</table>
-
-
-IA RECOMENDADA: Notebook LM
+  IA RECOMENDADA: Notebook LM
 - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
 - Es más rápido que el chat, o por lo menos que mi chat.
 - Lo único que jode es que no podes mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda si queres que te resuelva algo mencionar el nombre. 
-
-
-PAG DE APUNTES RECOMENDADA: NOTION
+<br>
+  PAG DE APUNTES RECOMENDADA: NOTION
 - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
 - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
+</td>
+</tr>
+</table>
 
 ## 📚 Progreso en la Carrera
 
