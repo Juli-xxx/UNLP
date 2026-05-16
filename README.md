@@ -20,7 +20,6 @@ won't upload all the activities I make, but you can find exams and resumes in th
   <br>
   - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
 <br><br>
-  
 </td>
 </tr>
 </table>
