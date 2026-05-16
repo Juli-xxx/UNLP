@@ -1,17 +1,12 @@
 # UNLP
-won't upload all the activities I make, but you can find exams and resumes in the most organiced possible way
-
-(si no sabés manejar bien github sabé que si entras a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
-
 <table>
 <tr>
 <td valign="top">
-
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="top">
 won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
-<br><br>
+<br>
 (si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 </td>
 </tr>
