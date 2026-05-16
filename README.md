@@ -15,7 +15,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 (si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 </td>
 <td width="35%">
-<img src="[TU_IMAGEN_AQUI](https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874)" width="220"/>
+<img src="(https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874)" width="220"/>
 </td>
 </tr>
 </table>
