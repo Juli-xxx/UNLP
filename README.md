@@ -12,26 +12,6 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </tr>
 </table>
 
-<table>
-<tr>
-
-<td width="250" valign="top">
-<img src="TU_GIF_O_IMAGEN" width="220"/>
-</td>
-
-<td valign="top">
-
-won't upload all the activities I make, but you can find exams and resumes in the most organized possible way
-
-<br><br>
-
-(si no sabés manejar bien github sabé que si entrás a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
-
-</td>
-
-</tr>
-</table>
-
 
 IA RECOMENDADA: Notebook LM
 - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
