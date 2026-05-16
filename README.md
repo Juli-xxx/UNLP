@@ -10,13 +10,13 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </td>
 <td valign="top">
   IA RECOMENDADA: Notebook LM
-- Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
-- Es más rápido que el chat, o por lo menos que mi chat.
-- Lo único que jode es que no podes mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda si queres que te resuelva algo mencionar el nombre. 
+  - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
+  - Es más rápido que el chat, o por lo menos que mi chat.
+  - Lo único que jode es que no podes mandarle imágenes directo, tenes que subirlas como fuentes y para que no se confunda si queres que te resuelva algo mencionar el nombre. 
 <br>
   PAG DE APUNTES RECOMENDADA: NOTION
-- ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
-- yo los códigos de Von-Sim los subo directo ahí, como son cortos...
+  - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
+  - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
 </td>
 </tr>
 </table>
