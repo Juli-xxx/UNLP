@@ -8,7 +8,7 @@ won't upload all the activities I make, but you can find exams and resumes in th
 <img alt="INeedToStudyMoreFasterCatGIF" src="https://github.com/user-attachments/assets/a7acdcec-90dd-43c0-bbea-7e00499d4874" width="220"/>
 </td>
 <td valign="midle">
-  IA RECOMENDADA: Notebook LM
+  <span style="color:#FF6A2B;">IA RECOMENDADA: Notebook LM</span>
   <br>
   - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
   <br>
