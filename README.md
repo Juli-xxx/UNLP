@@ -9,8 +9,6 @@ won't upload all the activities I make, but you can find exams and resumes in th
 </td>
 <td valign="midle">
   <h4> IA RECOMENDADA: Notebook LM </h4>
-  <b><span style="color:#FF6A2B;">🍊 IA Recomendada</span></b>
-  <span style="color:#FF6A2B;">IA RECOMENDADA: Notebook LM</span>
   <br>
   - Podes subirle las diapositivas, pdf, videos, resúmenes de la clase y te va a responder solo con lo que le mandaste, no te va a sugerir cosas que no te dejan hacer 
   <br>
