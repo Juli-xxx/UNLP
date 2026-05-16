@@ -34,3 +34,10 @@ PAG DE APUNTES RECOMENDADA: NOTION
 </p>
 (si me falta un final no voy a poner el año al 100%, probablemente le saque 10% por final, por ahora cruzo los dedos 🤞)
 
+| Área | Estado |
+|------|------|
+| Programming | ✅ |
+| Algorithms | ✅ |
+| Operating Systems | 🔄 |
+| Networks | ⏳ |
+
