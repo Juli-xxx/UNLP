@@ -1,5 +1,5 @@
 # UNLP
-won't upload all the activities I make (you have the IA to help u with that), but you can find exams and resumes in the most organiced possible way
+won't upload all the activities I make, but you can find exams and resumes in the most organiced possible way
 
 (si no sabés manejar bien github sabé que si entras a un archivo y no ves la imagen/pdf si ponés "view raw" se descarga)
 
