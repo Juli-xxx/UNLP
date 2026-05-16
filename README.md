@@ -24,3 +24,18 @@ Año	Estado	Avance
 3er Año	 -
 4to Año	 - 
 5to Año	 - 
+
+## 📚 Progreso en la Carrera
+
+<p align="center">
+
+| Año     | Estado         | Avance                                    |
+| ------- | -------------- | ----------------------------------------- |
+| 1er Año | ✅ Completado   | ![](https://progress-bar.xyz/100/?title=) |
+| 2do Año | 🔄 En progreso | ![](https://progress-bar.xyz/70/?title=)  |
+| 3er Año | 🔄 En progreso | ![](https://progress-bar.xyz/30/?title=)  |
+| 4to Año | ⏳ Pendiente    | ![](https://progress-bar.xyz/0/?title=)   |
+| 5to Año | 🚀 Futuro      | ![](https://progress-bar.xyz/10/?title=)  |
+
+</p>
+
