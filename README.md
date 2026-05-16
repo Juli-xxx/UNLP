@@ -16,3 +16,11 @@ IA RECOMENDADA: Notebook LM
 PAG DE APUNTES RECOMENDADA: NOTION
 - ya te quedan todos los apuntes online, es como un doc de google pero en modo oscuro y con mas herramientas.
 - yo los códigos de Von-Sim los subo directo ahí, como son cortos...
+
+Progreso en la Carrera
+Año	Estado	Avance
+1er Año	✅ Completado	100%
+2do Año	🔄 En progreso	(haciendo 1er cuatri)
+3er Año	 -
+4to Año	 - 
+5to Año	 - 
