@@ -14,6 +14,7 @@ Creo q Cesar tiene una obsación con los palindromos... por las dudas siempre es
 - Quitar espacios innecesarios del comienzo de una frace
 - Poner primeras letras en mayúsculas
 - Pasar todo a mayúscula / minúscula
+NO OLVIDARSE DE AGREGAR '\O' si es necesario
 
 DATA:
 - se pueden cambiar los colores de code::blocks 
